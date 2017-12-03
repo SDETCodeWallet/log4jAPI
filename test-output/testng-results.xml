@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11926" started-at="2017-12-03T11:30:55Z" finished-at="2017-12-03T11:31:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11926" started-at="2017-12-03T11:30:55Z" finished-at="2017-12-03T11:31:07Z">
+      <class name="Log4j.log4j.AppTest">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:Log4j.log4j.AppTest@78c03f1f]" name="launchApp" is-config="true" duration-ms="9552" started-at="2017-12-03T17:00:55Z" finished-at="2017-12-03T17:01:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyTestCase()[pri:0, instance:Log4j.log4j.AppTest@78c03f1f]" name="verifyTestCase" duration-ms="7" started-at="2017-12-03T17:01:05Z" finished-at="2017-12-03T17:01:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTestCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Log4j.log4j.AppTest@78c03f1f]" name="tearDown" is-config="true" duration-ms="2336" started-at="2017-12-03T17:01:05Z" finished-at="2017-12-03T17:01:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Log4j.log4j.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
